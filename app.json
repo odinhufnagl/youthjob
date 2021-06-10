@@ -1,0 +1,12 @@
+{
+  "name": "youthjob",
+  "displayName": "youthjob",
+  "expo": {
+    "name": "youthjob",
+    "slug": "youthjob",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
