@@ -1,0 +1,3 @@
+export const messages = [{company: {name: "Burger King", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRz0joabflmBpKiHG6ASk69AJvyN9dC2w1uKi8W_nm00k7JM--YjOHc23uRvkMprV8svM&usqp=CAU"}, user: {name: "Odin Hufnagl"}, lastMessage: "hej, hur mår du?"}, 
+{company: {name: "Odins Business", image: "https://group.renault.com/wp-content/uploads/2021/03/nouveau_logo_renault_banner.jpg"}, user: {name: "Elon Hufnagl"}, lastMessage: "det låter jättebra, hörs då"}, 
+{company: {name: "Mcdonalds", image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/McDonald%27s_Golden_Arches.svg/1200px-McDonald%27s_Golden_Arches.svg.png"}, user: {name: "Jacob Andersson"}, lastMessage: "skulle 13.00 funka för dig?"}]

@@ -1,0 +1,4 @@
+export const users = [
+    {name: "Odin Hufnagl", image: "https://images.unsplash.com/photo-1538424414113-6481a824d657?ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bHxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60", seeker: true},
+    {name: "Elon Hufnagl", image: "https://images.unsplash.com/photo-1568376158760-3594b4d380c3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1489&q=80", seeker: false, company: {name:"Burger King"}}, 
+    {name: "Johan Andersson", image: "https://images.unsplash.com/photo-1621523274023-6fd56cefeab9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=675&q=80", seeker: true}]

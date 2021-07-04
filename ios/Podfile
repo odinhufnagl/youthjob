@@ -18,4 +18,6 @@ target 'youthjob' do
   #     flipper_post_install(installer)
   #   end
   # end
+  pod 'lottie-react-native', :path => '../node_modules/lottie-react-native'
+
 end
